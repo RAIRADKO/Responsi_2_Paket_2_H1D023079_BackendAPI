@@ -1,3 +1,4 @@
+<?php
 use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\InventoryController;
 use Illuminate\Support\Facades\Route;
